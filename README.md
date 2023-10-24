@@ -4,7 +4,7 @@
   </a>
 </h1>
 #### Website & Software Developer 
-![Website & Software Developer ](https://www.bangla-kobita.com/images/up/1/pp29352-hrE.jpeg)
+
 
 Hi, I'm Shahinur Rahman, Programmer, Bug Hunter, Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
 
@@ -18,16 +18,42 @@ Skills: VUE JS / REACT / JS / HTML / CSS / PHP / WordPress / Laravel / SEO / Sof
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahin0075)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman?originalSubdomain=bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shahinurrahman.0.Official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Shahinur3546/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shahinalam3546)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](shahinur.amadersomaj.com)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+💬 Ask me anything about from <a href="https://github.com/shahin0075/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: shahinalam3546@gmail.com">shahinalam3546@gmail.com</a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahin0075)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahin0075&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahin0075)  
-
-![GitHub metrics](https://metrics.lecoq.io/shahin0075)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shahin0075)  
-
-![Profile views](https://gpvc.arturio.dev/shahin0075)  
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p>
