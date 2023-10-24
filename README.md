@@ -8,15 +8,15 @@
   Hi, I'm Shahinur Rahman, Programmer, Bug Hunter,<br> Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
   <br>
   <br>
- - 🔬 I'm currently studying for a master's degree in Harvard University Computer Engineering Department
+ -🔬 I'm currently studying for a master's degree in Harvard University Computer Engineering Department
   <br>
- - 🎓 I graduated from National University Computer Engineering Department
+ -🎓 I graduated from National University Computer Engineering Department
   <br>
   -🎓 I graduated from Chowganga High School
   <br>
- - 💻 I love writing code and learn anythings about it
+ -💻 I love writing code and learn anythings about it
   <br>
- - 📚 I’m currently learning Ethical Hacking 
+ -📚 I’m currently learning Ethical Hacking 
 
   
 💬 Ask me anything about from <a href="https://github.com/shahin0075/issues" title="Issues">Here</a>
