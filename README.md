@@ -5,24 +5,27 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Shahinur Rahman, Programmer, Bug Hunter, Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
+  Hi, I'm Shahinur Rahman, Programmer, Bug Hunter,<br> Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Harvard University Computer Engineering Department
+ - 🔬 I'm currently studying for a master's degree in Harvard University Computer Engineering Department
   <br>
-  🎓 I graduated from National University Computer Engineering Department
+ - 🎓 I graduated from National University Computer Engineering Department
   <br>
-  🎓 I graduated from Chowganga High School
+  -🎓 I graduated from Chowganga High School
   <br>
-  💻 I love writing code and learn anythings about it
+ - 💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Ethical Hacking 
+ - 📚 I’m currently learning Ethical Hacking 
 
   
 💬 Ask me anything about from <a href="https://github.com/shahin0075/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: shahinalam3546@gmail.com">shahinalam3546@gmail.com</a>
 </p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahin0075)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shahinurrahman.0.Official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Shahinur3546/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shahinalam3546)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](shahinur.amadersomaj.com)  
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
