@@ -3,10 +3,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahinur+Rahman....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<p marquee>Website & Software Developer</marquee></p>
-
-
-Hi, I'm Shahinur Rahman, Programmer, Bug Hunter, Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
+<br>
+<p align="center">
+  Hi, I'm Shahinur Rahman, Programmer, Bug Hunter, Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
+  <br>
+  <br>
+  🔬 I'm currently studying for a master's degree in Harvard University Computer Engineering Department
+  <br>
+  🎓 I graduated from National University Computer Engineering Department
+  <br>
+  🎓 I graduated from Chowganga High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning Ethical Hacking 
 
   
 💬 Ask me anything about from <a href="https://github.com/shahin0075/issues" title="Issues">Here</a>
