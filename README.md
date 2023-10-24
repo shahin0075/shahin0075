@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahinur+Rahman....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<marquee>Website & Software Developer</marquee>
+<p marquee>Website & Software Developer</marquee></p>
 
 
 Hi, I'm Shahinur Rahman, Programmer, Bug Hunter, Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
