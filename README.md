@@ -5,16 +5,16 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Shahinur Rahman, Programmer, Bug Hunter,<br> Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
+  Hi, I'm Shahinur Rahman, Software Engineer, Programmer, Bug Hunter,<br> Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker. from Bangladesh
   <br>
   <br>
- -🔬 I'm currently studying for a master's degree in Harvard University Computer Engineering Department
+ -🔬 I'm currently studying for a master's degree at Harvard University Computer Engineering Department
   <br>
- -🎓 I graduated from National University Computer Engineering Department
+ -🎓 I graduated from the Hong Kong University of Science and Technology (HKUST) Computer Engineering Department
   <br>
   -🎓 I graduated from Chowganga High School
   <br>
- -💻 I love writing code and learn anythings about it
+ -💻 I love writing code and learning anythings about it
   <br>
  -📚 I’m currently learning Ethical Hacking 
 
