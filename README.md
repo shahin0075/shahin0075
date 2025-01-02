@@ -1,134 +1,95 @@
-# <h1 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahinur+Rahman....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<br>
+<p align="center">
+  Hi, I'm Shahinur Rahman, Software Engineer, Programmer, Bug Hunter,<br> Senior Website, Software, Mobile Apps Developer, Digital Forensic Expert, and Ethical Hacker from Bangladesh
+  <br>
+  <br>
+ -🔬 I'm currently studying for a master's degree at Harvard University in the Computer Engineering Department
+  <br>
+ -🎓 I graduated from the Hong Kong University of Science and Technology (HKUST) in the Computer Engineering Department
+  <br>
+  -🎓 I graduated from Chowganga High School
+  <br>
+ -💻 I love writing code and learning everything about it
+  <br>
+ -📚 I’m currently learning Ethical Hacking
+
+💬 Ask me anything about from <a href="https://github.com/shahin0075/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: shahinalam3546@gmail.com">shahinalam3546@gmail.com</a>
+</p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahin0075)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shahinurrahman.0.Official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Shahinur3546/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shahinalam3546)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](shahinur.amadersomaj.com)  
+
+---
+
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
 <p align="center">
-  **Hi, I'm Shahinur Rahman**, a **Software Engineer**, **Ethical Hacker**, **Cybersecurity Expert**, **Author**, and **Technology Evangelist** from **Bangladesh**.<br>
-  🔍 **Master's Degree** in **Computer Engineering** (Harvard University - in progress)<br>
-  🎓 **Graduated from HKUST** with a focus on **Computer Engineering**.<br>
-  💡 Passionate about **Artificial Intelligence (AI)**, **Blockchain**, **Cybersecurity**, **Web3**, **Cloud Computing**, and **Ethical Hacking**.<br>
-  💻 Love building innovative solutions, solving complex problems, and empowering people through technology.<br>
-  🚀 Currently exploring **Quantum Computing** and its implications in **Cybersecurity**.<br>
-  🔗 **Connect with me**: [GitHub](https://github.com/shahin0075) | [LinkedIn](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/) | [Twitter](https://twitter.com/Shahinalam3546) | [Instagram](https://www.instagram.com/Shahinur3546/) | [Email](mailto:shahinalam3546@gmail.com)
+  <code><img title="C" height="25" src="c.svg"></code>
+  <code><img title="C++" height="25" src="cpp.svg"></code>
+  <code><img title="C#" height="25" src="cSharp.svg"></code>
+  <code><img title="Python" height="25" src="python-original.svg"></code>
+  <code><img title="Django" height="25" src="django.png"></code>
+  <code><img title="Javascript" height="25" src="javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="html5.svg"></code>
+  <code><img title="CSS" height="25" src="css.svg"></code>
+  <code><img title="SASS" height="25" src="sass.svg"></code>
+  <code><img title="Gulp" height="25" src="gulp.svg"></code>
+  <code><img title="React" height="25" src="react-original.svg"></code>
+  <code><img title="Redux" height="25" src="redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="angularjs.png"></code>
+  <code><img title="Git" height="25" src="git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="java-original.svg"></code>
+  <code><img title="JSON" height="25" src="json.svg"></code>
+  <code><img title="Unity" height="25" src="unity3d.svg"></code>
+  <code><img title="Android" height="25" src="android.svg"></code>
+  <code><img title="GitHub" height="25" src="github.svg"></code>
+  <code><img title="MySQL" height="25" src="mysql.svg"></code>
+  <code><img title="npm" height="25" src="npm.svg"></code>
+  <code><img title="PHP" height="25" src="php.svg"></code>
+  <code><img title="Flask" height="25" src="flask.png"></code>
 </p>
 
 ---
 
-## 🌍 **Professional Background**
+## 📚 Notable Books by Mohammad Sheikh Shahinur Rahman:
 
-I'm a **multidisciplinary professional** with expertise spanning **software engineering**, **cybersecurity**, and **technology consulting**. Passionate about **problem-solving**, **innovation**, and **empowering the tech community**, I blend advanced **AI/ML** models with **cloud technologies** and **blockchain solutions** to create secure, cutting-edge digital solutions.
+- [Bug Bounty Beginner to Master](https://www.booktopia.com.au/bug-bounty-beginner-to-master-mohammad-sheikh-shahinur-rahman/ebook/9789849809333.html)
+- [How to Maintain a Happy Sexual Life](https://www.bol.com/nl/nl/p/how-to-maintain-a-happy-sexual-life/9300000173053015/)
+- [Mastering Goals: The Path to Achievement and Success](https://www.amazon.com/Mastering-Goals-Achievement-Success-ebook/dp/B08Y7Z94Y7)
+- [The Spirit](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+- [Master Java: Beginner to Expert](https://www.amazon.com/Master-Java-Beginner-Expert-ebook/dp/B09T6R8N3S)
+- [Flutter Beginner to Master](https://www.amazon.com/Flutter-Beginner-Master-Mohammad-Shahinur-ebook/dp/B08HNN3VXZ)
+- [You Are Poetry](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)
 
-### **Current Role**
-- **Chief Technology Officer (CTO)** at **IT Amadersomaj Inc.** - Leading R&D to craft **secure**, **innovative** software solutions for businesses across industries. Focus on **scalable architecture**, **security automation**, and **AI-driven insights**.
-
----
-
-## 🏆 **Achievements**
-
-- **Certified Ethical Hacker (CEH)**: Specializing in **penetration testing**, **network security**, and **cyber threat analysis**.
-- **AWS Certified Solutions Architect**: Demonstrating expertise in designing **secure** and **cost-efficient** cloud infrastructures.
-- **Hackathon Winner**: Winner of the **2023 Global Hacking Challenge** for a blockchain-based **security solution**.
-- **Google Developer Expert**: Recognized for contributions in **Flutter development** and **cross-platform mobile applications**.
-- **Innovative Contributor**: Published **5+ research papers** and **2 books** in the field of **cybersecurity** and **software engineering**.
+For more works, visit:
+- [Goodreads](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)
+- [Rokomari](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+- [BD Books](https://bdbooks.net/author-single/7455)
 
 ---
 
-## 🚀 **Notable Projects**
+## 📖 Research Papers & Contributions:
 
-Here are some of the **cutting-edge** projects I’ve developed:
-
-- **[SecureDoc](https://example-link.com)**: A **blockchain**-powered platform for secure document verification and digital signing.
-- **[AI Guard](https://example-link.com)**: AI-driven threat detection system using **machine learning** for advanced cybersecurity insights.
-- **[DeFiSwap](https://example-link.com)**: A **decentralized exchange** (DEX) that leverages **smart contracts** to offer secure, transparent, and permissionless crypto trading.
-- **[CyberShield](https://example-link.com)**: An **AI-powered malware detection** system that uses **machine learning** to identify evolving cyber threats.
-
-### **Open Source Contributions**
-- **[Secure Framework](https://github.com/shahin0075/secure-framework)**: Contributed to the development of an open-source web framework for building **secure** web applications.
-- **[AI Security Toolkit](https://github.com/shahin0075/ai-security-toolkit)**: Developed a toolkit for applying **AI techniques** to enhance **cybersecurity** practices.
+- [The Role of Artificial Intelligence in Modern Cybersecurity: Opportunities and Challenges](https://www.academia.edu/124917992/The_Role_of_Artificial_Intelligence_in_Modern_Cybersecurity_Opportunities_and_Challenges)
 
 ---
 
-## 🌟 **Publications & Research Papers**
+## 🔗 External Links:
 
-### **Books & Guides**
-- **[Mastering Flutter](https://example-link.com)**: A complete guide to building cross-platform mobile applications with **Flutter** and **Dart**.
-- **[Bug Bounty Beginner to Master](https://example-link.com)**: The ultimate guide to **ethical hacking** and becoming a successful bug bounty hunter.
-- **[Client Hunting Mastery on LinkedIn](https://example-link.com)**: A comprehensive manual on how to use **LinkedIn** for acquiring clients and business opportunities.
-- **[You Are Poetry](https://example-link.com)**: A poetic exploration of **love**, **life**, and the **human condition**.
-- **[Death or You](https://example-link.com)**: Philosophical poetry about **mortality**, **life’s meaning**, and the **afterlife**.
-
-### **Research Papers**
-- **[AI in Cybersecurity](https://www.academia.edu/124917992/The_Role_of_Artificial_Intelligence_in_Modern_Cybersecurity_Opportunities_and_Challenges)**: A thorough analysis of the **role of AI** in modern cybersecurity.
-- **[The Role of Blockchain in Cybersecurity](https://example-link.com)**: Investigating how blockchain can secure systems, eliminate fraud, and improve transparency in **cybersecurity**.
-
----
-
-## 🔧 **Skills & Technologies**
-
-### **Programming Languages & Frameworks**
-- **Languages**: C, C++, Python, Java, JavaScript (ES6+), TypeScript, PHP, Ruby, Swift
-- **Web Development**: React, Angular, Vue.js, Node.js, Django, Flask, Ruby on Rails, .NET Core, Express.js
-- **Mobile Development**: React Native, Flutter, Swift, Kotlin, Java (Android)
-- **Blockchain**: Ethereum, Solidity, IPFS, Web3.js, dApps, NFTs
-- **Cybersecurity Tools**: Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, Nessus, OWASP
-- **Cloud Engineering**: AWS, Google Cloud Platform (GCP), Azure, Docker, Kubernetes, Terraform
-- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Firebase, Cassandra
-- **AI/ML**: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV
-
----
-
-## 💬 **Community Involvement**
-
-### **Mentoring & Speaking**
-- **Mentor** at **Hack The Box**: Helping aspiring ethical hackers navigate challenges and improve their skills.
-- **Speaker** at **Global Cybersecurity Conference 2023**: Delivered a talk on **AI and blockchain for cybersecurity**.
-- **Hackathon Judge** at **DevSecCon**: Evaluating innovative solutions at global **cybersecurity hackathons**.
-
-### **Open-Source Leadership**
-- **Lead Developer** for the **AI Security Toolkit** project on **GitHub**.
-- Regular contributor to **OWASP** projects and **Blockchain** security initiatives.
-
----
-
-## 📚 **Connect With Me**
-
-- **[LinkedIn](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)**
-- **[GitHub](https://github.com/shahin0075)**
-- **[Twitter](https://twitter.com/Shahinalam3546)**
-- **[Instagram](https://www.instagram.com/Shahinur3546/)**
-- **[Email](mailto:shahinalam3546@gmail.com)**
-- **[Personal Website](http://shahinur.amadersomaj.com)**
-
----
-
-## 🌟 **Notable Links**
-
-- **[Rokomari - Mohammad Sheikh Shahinur Rahman](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)**
-- **[Amazon - Bug Bounty Beginner to Master](https://www.amazon.com/)**  
-- **[Google Scholar](https://scholar.google.com/citations?user=OW-KhOcAAAAJ&hl=en)**
-- **[Goodreads](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)**
-- **[Booktopia](https://www.booktopia.com.au/bug-bounty-beginner-to-master-mohammad-sheikh-shahinur-rahman/ebook/9789849809333.html)**
-
----
-
-## 📈 **GitHub Stats**
-
-![Shahinur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahin0075&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahin0075&langs_count=10&theme=radical)
-
-### **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahin0075&theme=radical)
-
----
-
-## 💬 **A Quote From Me**
-
-> "The beauty of technology is that it connects the world and enables us to innovate and solve problems that once seemed impossible." - **Mohammad Sheikh Shahinur Rahman**
-
----
-
-### **Let’s Create the Future Together!**
+- [Hugging Face](https://huggingface.co/shahinalam3546)
+- [FNAC](https://fnac.com/ia11471926/Mohammad-Sheikh-Shahinur-Rahman)
+- [Romance.io](https://www.romance.io/authors/65c09bfba21e2f41c4050077/mohammad-sheikh-shahinur-rahman)
+- [EverybodyWiki](https://en.everybodywiki.com/Mohammad_Sheikh-Shahinur_Rahman)
+- [Boitoi](https://boitoi.com.bd/author/3123/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8)
