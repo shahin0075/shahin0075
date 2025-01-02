@@ -1,250 +1,134 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shahinur Rahman - Developer Profile</title>
-  <style>
-    /* Global styles */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      font-family: 'Arial', sans-serif;
-      background: #f4f7f6;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      text-align: center;
-      padding: 20px;
-    }
+# <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahinur+Rahman....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-    h1, h2 {
-      color: #4b8df8;
-      margin-bottom: 20px;
-    }
+<p align="center">
+  **Hi, I'm Shahinur Rahman**, a **Software Engineer**, **Ethical Hacker**, **Cybersecurity Expert**, **Author**, and **Technology Evangelist** from **Bangladesh**.<br>
+  🔍 **Master's Degree** in **Computer Engineering** (Harvard University - in progress)<br>
+  🎓 **Graduated from HKUST** with a focus on **Computer Engineering**.<br>
+  💡 Passionate about **Artificial Intelligence (AI)**, **Blockchain**, **Cybersecurity**, **Web3**, **Cloud Computing**, and **Ethical Hacking**.<br>
+  💻 Love building innovative solutions, solving complex problems, and empowering people through technology.<br>
+  🚀 Currently exploring **Quantum Computing** and its implications in **Cybersecurity**.<br>
+  🔗 **Connect with me**: [GitHub](https://github.com/shahin0075) | [LinkedIn](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/) | [Twitter](https://twitter.com/Shahinalam3546) | [Instagram](https://www.instagram.com/Shahinur3546/) | [Email](mailto:shahinalam3546@gmail.com)
+</p>
 
-    p {
-      line-height: 1.6;
-      font-size: 16px;
-      max-width: 600px;
-      margin: 10px auto;
-    }
+---
 
-    /* Profile section */
-    .profile-container {
-      max-width: 1000px;
-      width: 100%;
-      background: white;
-      border-radius: 20px;
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-      padding: 40px 30px;
-      margin-bottom: 30px;
-      transform: scale(0.98);
-      transition: transform 0.3s ease-in-out;
-    }
-    .profile-container:hover {
-      transform: scale(1);
-    }
+## 🌍 **Professional Background**
 
-    .profile-header {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+I'm a **multidisciplinary professional** with expertise spanning **software engineering**, **cybersecurity**, and **technology consulting**. Passionate about **problem-solving**, **innovation**, and **empowering the tech community**, I blend advanced **AI/ML** models with **cloud technologies** and **blockchain solutions** to create secure, cutting-edge digital solutions.
 
-    .profile-header img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-    }
+### **Current Role**
+- **Chief Technology Officer (CTO)** at **IT Amadersomaj Inc.** - Leading R&D to craft **secure**, **innovative** software solutions for businesses across industries. Focus on **scalable architecture**, **security automation**, and **AI-driven insights**.
 
-    .profile-links {
-      margin-top: 20px;
-    }
+---
 
-    .profile-links a {
-      margin: 15px;
-      text-decoration: none;
-      color: #333;
-      transition: transform 0.3s ease;
-    }
+## 🏆 **Achievements**
 
-    .profile-links img {
-      width: 40px;
-      height: 40px;
-      transition: transform 0.3s ease;
-    }
+- **Certified Ethical Hacker (CEH)**: Specializing in **penetration testing**, **network security**, and **cyber threat analysis**.
+- **AWS Certified Solutions Architect**: Demonstrating expertise in designing **secure** and **cost-efficient** cloud infrastructures.
+- **Hackathon Winner**: Winner of the **2023 Global Hacking Challenge** for a blockchain-based **security solution**.
+- **Google Developer Expert**: Recognized for contributions in **Flutter development** and **cross-platform mobile applications**.
+- **Innovative Contributor**: Published **5+ research papers** and **2 books** in the field of **cybersecurity** and **software engineering**.
 
-    .profile-links a:hover img {
-      transform: scale(1.2);
-    }
+---
 
-    /* Skills section */
-    .skills-section {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
-      gap: 20px;
-      margin-top: 30px;
-    }
+## 🚀 **Notable Projects**
 
-    .skills-section img {
-      width: 50px;
-      height: 50px;
-      transition: transform 0.3s ease;
-      cursor: pointer;
-    }
+Here are some of the **cutting-edge** projects I’ve developed:
 
-    .skills-section img:hover {
-      transform: scale(1.1);
-    }
+- **[SecureDoc](https://example-link.com)**: A **blockchain**-powered platform for secure document verification and digital signing.
+- **[AI Guard](https://example-link.com)**: AI-driven threat detection system using **machine learning** for advanced cybersecurity insights.
+- **[DeFiSwap](https://example-link.com)**: A **decentralized exchange** (DEX) that leverages **smart contracts** to offer secure, transparent, and permissionless crypto trading.
+- **[CyberShield](https://example-link.com)**: An **AI-powered malware detection** system that uses **machine learning** to identify evolving cyber threats.
 
-    /* Cards for Education and Contact */
-    .card-container {
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      margin-top: 50px;
-      flex-wrap: wrap;
-    }
+### **Open Source Contributions**
+- **[Secure Framework](https://github.com/shahin0075/secure-framework)**: Contributed to the development of an open-source web framework for building **secure** web applications.
+- **[AI Security Toolkit](https://github.com/shahin0075/ai-security-toolkit)**: Developed a toolkit for applying **AI techniques** to enhance **cybersecurity** practices.
 
-    .card {
-      background-color: #ffffff;
-      border-radius: 15px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-      padding: 30px;
-      width: 300px;
-      text-align: left;
-      transition: transform 0.3s ease;
-    }
+---
 
-    .card:hover {
-      transform: translateY(-10px);
-    }
+## 🌟 **Publications & Research Papers**
 
-    .card h3 {
-      color: #4b8df8;
-      font-size: 20px;
-      margin-bottom: 15px;
-    }
+### **Books & Guides**
+- **[Mastering Flutter](https://example-link.com)**: A complete guide to building cross-platform mobile applications with **Flutter** and **Dart**.
+- **[Bug Bounty Beginner to Master](https://example-link.com)**: The ultimate guide to **ethical hacking** and becoming a successful bug bounty hunter.
+- **[Client Hunting Mastery on LinkedIn](https://example-link.com)**: A comprehensive manual on how to use **LinkedIn** for acquiring clients and business opportunities.
+- **[You Are Poetry](https://example-link.com)**: A poetic exploration of **love**, **life**, and the **human condition**.
+- **[Death or You](https://example-link.com)**: Philosophical poetry about **mortality**, **life’s meaning**, and the **afterlife**.
 
-    .card p {
-      color: #555;
-      font-size: 16px;
-    }
+### **Research Papers**
+- **[AI in Cybersecurity](https://www.academia.edu/124917992/The_Role_of_Artificial_Intelligence_in_Modern_Cybersecurity_Opportunities_and_Challenges)**: A thorough analysis of the **role of AI** in modern cybersecurity.
+- **[The Role of Blockchain in Cybersecurity](https://example-link.com)**: Investigating how blockchain can secure systems, eliminate fraud, and improve transparency in **cybersecurity**.
 
-    .card a {
-      color: #4b8df8;
-      text-decoration: none;
-    }
+---
 
-    /* Animation */
-    .typing-animation {
-      font-size: 30px;
-      font-weight: bold;
-      color: #4b8df8;
-      animation: typing 2s steps(30) 1s 1 normal both, blink 0.75s step-end infinite;
-    }
+## 🔧 **Skills & Technologies**
 
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
+### **Programming Languages & Frameworks**
+- **Languages**: C, C++, Python, Java, JavaScript (ES6+), TypeScript, PHP, Ruby, Swift
+- **Web Development**: React, Angular, Vue.js, Node.js, Django, Flask, Ruby on Rails, .NET Core, Express.js
+- **Mobile Development**: React Native, Flutter, Swift, Kotlin, Java (Android)
+- **Blockchain**: Ethereum, Solidity, IPFS, Web3.js, dApps, NFTs
+- **Cybersecurity Tools**: Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, Nessus, OWASP
+- **Cloud Engineering**: AWS, Google Cloud Platform (GCP), Azure, Docker, Kubernetes, Terraform
+- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Firebase, Cassandra
+- **AI/ML**: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV
 
-    @keyframes blink {
-      50% { border-color: transparent; }
-    }
+---
 
-    /* Scroll to top */
-    .scroll-to-top {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      background: #4b8df8;
-      color: white;
-      border-radius: 50%;
-      width: 50px;
-      height: 50px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-      font-size: 20px;
-      transition: transform 0.3s ease;
-    }
+## 💬 **Community Involvement**
 
-    .scroll-to-top:hover {
-      transform: scale(1.1);
-    }
+### **Mentoring & Speaking**
+- **Mentor** at **Hack The Box**: Helping aspiring ethical hackers navigate challenges and improve their skills.
+- **Speaker** at **Global Cybersecurity Conference 2023**: Delivered a talk on **AI and blockchain for cybersecurity**.
+- **Hackathon Judge** at **DevSecCon**: Evaluating innovative solutions at global **cybersecurity hackathons**.
 
-  </style>
-</head>
-<body>
+### **Open-Source Leadership**
+- **Lead Developer** for the **AI Security Toolkit** project on **GitHub**.
+- Regular contributor to **OWASP** projects and **Blockchain** security initiatives.
 
-  <div class="profile-container">
-    <div class="profile-header">
-      <h1 class="typing-animation">Hello, There! 👋</h1>
-      <p>This is Shahinur Rahman. Nice to meet you!</p>
-      <p>Software Engineer | Programmer | Bug Hunter | Ethical Hacker from Bangladesh</p>
-    </div>
+---
 
-    <p>
-      - 🔬 I'm currently pursuing a Master's degree in Computer Engineering at Harvard University.
-      <br>
-      - 🎓 I graduated from the Hong Kong University of Science and Technology (HKUST) in Computer Engineering.
-      <br>
-      - 💻 Passionate about writing code and learning new technologies.
-      <br>
-      - 📚 I’m currently learning Ethical Hacking.
-    </p>
+## 📚 **Connect With Me**
 
-    <div class="profile-links">
-      <a href="https://github.com/shahin0075"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub"></a>
-      <a href="https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn"></a>
-      <a href="https://www.facebook.com/Shahinurrahman.0.Official"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook"></a>
-      <a href="https://www.instagram.com/Shahinur3546/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram"></a>
-      <a href="https://twitter.com/Shahinalam3546"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter"></a>
-      <a href="https://shahinur.amadersomaj.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website"></a>
-    </div>
-  </div>
+- **[LinkedIn](https://www.linkedin.com/in/mohammad-sheikh-shahinur-rahman/)**
+- **[GitHub](https://github.com/shahin0075)**
+- **[Twitter](https://twitter.com/Shahinalam3546)**
+- **[Instagram](https://www.instagram.com/Shahinur3546/)**
+- **[Email](mailto:shahinalam3546@gmail.com)**
+- **[Personal Website](http://shahinur.amadersomaj.com)**
 
-  <h2>🔥 Skills & Expertise 🔥</h2>
-  <div class="skills-section">
-    <img src="c.svg" alt="C">
-    <img src="cpp.svg" alt="C++">
-    <img src="cSharp.svg" alt="C#">
-    <img src="python-original.svg" alt="Python">
-    <img src="django.png" alt="Django">
-    <img src="javascript.svg" alt="JavaScript">
-    <img src="html5.svg" alt="HTML5">
-    <img src="css.svg" alt="CSS">
-    <img src="react-original.svg" alt="React">
-    <img src="git-original.svg" alt="Git">
-    <img src="mysql.svg" alt="MySQL">
-    <img src="flask.png" alt="Flask">
-  </div>
+---
 
-  <div class="card-container">
-    <div class="card">
-      <h3>Education</h3>
-      <p>Master's in Computer Engineering (Harvard University). Bachelor's in Computer Engineering (HKUST).</p>
-    </div>
+## 🌟 **Notable Links**
 
-    <div class="card">
-      <h3>Contact</h3>
-      <p>You can reach me via email: <a href="mailto:shahinalam3546@gmail.com">shahinalam3546@gmail.com</a></p>
-    </div>
-  </div>
+- **[Rokomari - Mohammad Sheikh Shahinur Rahman](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)**
+- **[Amazon - Bug Bounty Beginner to Master](https://www.amazon.com/)**  
+- **[Google Scholar](https://scholar.google.com/citations?user=OW-KhOcAAAAJ&hl=en)**
+- **[Goodreads](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)**
+- **[Booktopia](https://www.booktopia.com.au/bug-bounty-beginner-to-master-mohammad-sheikh-shahinur-rahman/ebook/9789849809333.html)**
 
-  <div class="scroll-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">
-    ↑
-  </div>
+---
 
-</body>
-</html>
+## 📈 **GitHub Stats**
+
+![Shahinur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahin0075&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahin0075&langs_count=10&theme=radical)
+
+### **GitHub Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahin0075&theme=radical)
+
+---
+
+## 💬 **A Quote From Me**
+
+> "The beauty of technology is that it connects the world and enables us to innovate and solve problems that once seemed impossible." - **Mohammad Sheikh Shahinur Rahman**
+
+---
+
+### **Let’s Create the Future Together!**
