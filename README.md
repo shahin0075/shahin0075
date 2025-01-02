@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahinur+Rahman....;Nice+to+meet+you!&center=true&size=30&color=F7A700">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Shahinur+Rahman....;Nice+to+meet+you!&center=true&size=30&color=F7A700">
   </a>
 </h1>
 
@@ -122,80 +122,32 @@
 </p>
 
 <!-- Hover Effect for Links -->
-<style>
-  a:hover {
-    color: #9b59b6; /* Purple color on hover */
-    text-decoration: underline;
-    font-weight: bold;
-    transform: scale(1.05); /* Slight zoom effect for more interactivity */
-    transition: all 0.3s ease-in-out; /* Smooth transition for all effects */
-  }
-</style>
-
-<!-- Stylish Horizontal Line -->
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #3498db, #e74c3c, #3498db); width: 80%; margin: 40px auto;">
 
 
 <hr>
 
-<!-- References Section -->
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #2d98da; font-size: 36px; letter-spacing: 1px; padding: 10px; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);">
-  🌍 Links & References
-</h2>
+## 🌍 Links & References
 
-<p align="center" style="font-size: 20px; font-family: 'Arial', sans-serif; color: #2c3e50; line-height: 1.8; max-width: 800px; margin: 0 auto;">
-  <a href="https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman" target="_blank" style="color: #3498db; text-decoration: none; font-weight: 600; transition: color 0.3s ease;">
-    📖 Goodreads Author Page
-  </a>
-  <br><br>
+- 📖 [Goodreads Author Page](https://www.goodreads.com/author/show/48249713.Mohammad_Sheikh_Shahinur_Rahman)
+- 🛒 [Amazon Author Page](https://www.amazon.com)
+- 📚 [Rokomari Author Page](https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman)
+- 🧑‍💻 [Hugging Face Profile](https://huggingface.co/shahinalam3546)
+- 🌐 [Academia Research Paper](https://www.academia.edu/124917992/The_Role_of_Artificial_Intelligence_in_Modern_Cybersecurity_Opportunities_and_Challenges)
 
-  <a href="https://www.amazon.com" target="_blank" style="color: #e74c3c; text-decoration: none; font-weight: 600; transition: color 0.3s ease;">
-    🛒 Amazon Author Page
-  </a>
-  <br><br>
 
-  <a href="https://www.rokomari.com/book/author/126602/mohammad-sheikh-shahinur-rahman" target="_blank" style="color: #2ecc71; text-decoration: none; font-weight: 600; transition: color 0.3s ease;">
-    📚 Rokomari Author Page
-  </a>
-  <br><br>
-
-  <a href="https://huggingface.co/shahinalam3546" target="_blank" style="color: #8e44ad; text-decoration: none; font-weight: 600; transition: color 0.3s ease;">
-    🧑‍💻 Hugging Face Profile
-  </a>
-  <br><br>
-
-  <a href="https://www.academia.edu/124917992/The_Role_of_Artificial_Intelligence_in_Modern_Cybersecurity_Opportunities_and_Challenges" target="_blank" style="color: #f39c12; text-decoration: none; font-weight: 600; transition: color 0.3s ease;">
-    🌐 Academia Research Paper
-  </a>
-</p>
-
-<!-- Hover Effect for Links -->
-<style>
-  a:hover {
-    color: #9b59b6;
-    text-decoration: underline;
-    font-weight: bold;
-    transition: all 0.3s ease-in-out;
-  }
-</style>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #3498db, #e74c3c, #3498db); width: 80%; margin: 40px auto;">
 
 
 <hr>
 
 <!-- Footer with Custom Styling -->
-<p align="center" style="font-size: 16px; font-family: 'Arial', sans-serif; color: #6c757d; background: #f8f9fa; padding: 20px; border-radius: 5px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 90%; margin: 40px auto;">
-  Made with ❤️ by <strong style="color: #3498db;">Shahinur Rahman</strong> | 
-  <a href="https://github.com/shahin0075" target="_blank" style="color: #2ecc71; font-weight: bold; text-decoration: none; transition: color 0.3s ease;">Check out my projects & contribute! 🚀</a>
-</p>
+---
 
-<!-- Hover Effect for Footer Link -->
-<style>
-  a:hover {
-    color: #9b59b6;
-    text-decoration: underline;
-  }
-</style>
+## Made with ❤️ by [Shahinur Rahman](https://github.com/shahin0075)
+
+Check out my projects & contribute! 🚀
+
+---
+
+
 
 
